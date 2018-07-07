@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>UniqueName__c</fullName>
+    <description>Name that uniquely identifies this component within an account. If no unique name is given, a unique name is inferred based on the name of component and the unique name of the parent component. See the &quot;Handle New Record&quot; workflow rule.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Name that uniquely identifies this component within an account</inlineHelpText>
+    <label>Unique Name</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
