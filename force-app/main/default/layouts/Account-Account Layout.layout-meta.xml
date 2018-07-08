@@ -177,10 +177,16 @@
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>Parent__c</fields>
+        <fields>LAST_UPDATE</fields>
         <relatedList>Process__c.Account__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>Label__c</fields>
+        <fields>Parent__c</fields>
+        <fields>UniqueName__c</fields>
+        <fields>LAST_UPDATE</fields>
         <relatedList>Component__c.Account__c</relatedList>
     </relatedLists>
     <relatedLists>
