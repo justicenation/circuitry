@@ -177,6 +177,10 @@
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
+        <relatedList>Process__c.Account__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
         <relatedList>Component__c.Account__c</relatedList>
     </relatedLists>
     <relatedLists>
